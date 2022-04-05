@@ -48,7 +48,7 @@ h1 {
   }
 
   p {
-        font-size: 2em;
+        font-size: 50px;
         font-family: 'Oswald', sans-serif;
         color: #fff;
         text-shadow: 1px 1px 0 #333, 1px -1px 0 #333, -1px 1px 0 #333, -1px -1px 0 #333;
@@ -64,6 +64,7 @@ header .logo {
 header .logo p {
     color: #9b9b9b;
 }
+
 
 header form {
 
